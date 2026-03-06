@@ -65,7 +65,7 @@ Apply to a `BasePart` or `Model`. The object will partially or fully counteract 
 
 ### `Ejector`
 
-Apply to a `BasePart` or `Model`. When a player touches it (or any descendant `BasePart`), they are flung back to the dream's spawn point — the same effect as respawning inside a dream. Only affects players who are currently inside a dream.
+Apply to a `BasePart` or `Model`. When a player touches it (or any descendant `BasePart`), they are flung back to the dream's spawn point. Only affects players who are currently inside a dream.
 
 No attributes required.
 
