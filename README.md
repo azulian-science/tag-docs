@@ -84,7 +84,7 @@ Apply to a `BasePart` or `Model`. A click detector is added and plays a sound wh
 
 ## Prop Attributes
 
-These attributes are set directly on any **BasePart** or **Model** you want players to scan with the **PropTool**.
+These attributes are set directly on any `BasePart` or `Model` you want players to scan with the prop scanner.
 
 - `IsProp` _(boolean, required)_ - Marks this object as a scannable prop. Must be `true`.
 - `DisplayName` _(string, required)_ - The name shown in the scan UI.
@@ -92,4 +92,3 @@ These attributes are set directly on any **BasePart** or **Model** you want play
 - `DownloadedIn` _(string, required)_ - The dream or location the prop is downloaded in, shown in the scan UI.
 
 All four are required for the prop scan to display correctly
-****
